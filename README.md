@@ -19,3 +19,8 @@ This is a beginnner HTML project I built
 ## Author
 
 Tashi Gyatso
+
+
+## project url 
+
+https://github.com/tashigyatso45/roadmap-singlecv
